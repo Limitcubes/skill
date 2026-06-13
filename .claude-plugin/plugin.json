@@ -1,0 +1,11 @@
+{
+  "name": "limitcubes",
+  "version": "0.1.0",
+  "description": "Mint Claude Limit Cubes NFTs by spending your Claude Code 5-hour usage. Proof-of-usage: every 10% burned unlocks one cube.",
+  "author": {
+    "name": "Claude Limit Cubes"
+  },
+  "homepage": "https://limitcubes.io",
+  "license": "MIT",
+  "keywords": ["nft", "mint", "ethereum", "usage", "claude-code", "proof-of-usage"]
+}
