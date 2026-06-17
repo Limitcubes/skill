@@ -1,0 +1,15 @@
+{
+  "name": "limitcubes",
+  "description": "Claude Limit Cubes — proof-of-usage NFT mint skill for Claude Code.",
+  "owner": {
+    "name": "Claude Limit Cubes",
+    "url": "https://limitcubes.com"
+  },
+  "plugins": [
+    {
+      "name": "limitcubes",
+      "source": "./",
+      "description": "Proof-of-usage NFT mint — spend Claude Code usage, earn cubes."
+    }
+  ]
+}
